@@ -1,6 +1,6 @@
-#  Customer Churn Analysis Project
+# 📊 Customer Churn Analysis Project
 
-##  Project Overview
+## 🚀 Project Overview
 This project analyzes customer churn behavior using Python, SQL, and Power BI to identify key factors responsible for customer attrition and revenue loss.
 
 The goal is to understand:
@@ -11,7 +11,7 @@ The goal is to understand:
 
 ---
 
-##  Tools & Technologies
+## 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (Data querying & segmentation)
 - Power BI (Interactive dashboard)
@@ -19,7 +19,7 @@ The goal is to understand:
 
 ---
 
-##  Project Workflow
+## 📊 Project Workflow
 1. Data Cleaning using Python
 2. Exploratory Data Analysis (EDA)
 3. SQL-based customer segmentation
@@ -28,7 +28,7 @@ The goal is to understand:
 
 ---
 
-##  Key Insights
+## 🔍 Key Insights
 - Customers without Tech Support are more likely to churn
 - Fiber optic users show higher churn rates
 - Month-to-month contracts have the highest churn
@@ -36,28 +36,29 @@ The goal is to understand:
 
 ---
 
-##  Visualizations
+## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](images/ChurnDistribution.png)
+![Churn Distribution](06_images/churnDistribution.png)
 
 ### Top Churn Drivers
-![Top Churn Drivers](images/RankedChurnDrivers.png)
+![Ranked Churn Drivers](06_images/RankedChurnDrivers.png)
 
-### Overview Dashboard - Page 1
-![Overview Dashboard](images/Dashboard_page1.png)
+### overviewDashboard
+![overviwe](06_images/Dashboard_page1.png)
 
-### Churn Driver Dashboard - Page 2
-![Churn Driver Dashboard](images/Dashboard_page2.png)
+### ChurnDriverDashboard
+![Churn driver](06_images/Dashboard_page2.png)
 
-### Revenue Impact Dashboard - Page 3
-![Revenue Impact Dashboard](images/Dashboard_page3.png)
+### RevenueImpactDashboard
+![revenue impact](06_images/Dashboard_page3.png)
+
 
 
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 data/
 python_analysis/
 sql_queries/

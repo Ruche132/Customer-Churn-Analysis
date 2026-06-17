@@ -39,7 +39,7 @@ The goal is to understand:
 ## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](06_images/churnDistribution.png)
+![Churn Distribution](06_images/ChurnDistribution.png)
 
 ### Top Churn Drivers
 ![Ranked Churn Drivers](06_images/RankedChurnDrivers.png)

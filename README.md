@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis Project
+#  Customer Churn Analysis Project
 
-## 🚀 Project Overview
+##  Project Overview
 This project analyzes customer churn behavior using Python, SQL, and Power BI to identify key factors responsible for customer attrition and revenue loss.
 
 The goal is to understand:
@@ -11,7 +11,7 @@ The goal is to understand:
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (Data querying & segmentation)
 - Power BI (Interactive dashboard)
@@ -19,7 +19,7 @@ The goal is to understand:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 1. Data Cleaning using Python
 2. Exploratory Data Analysis (EDA)
 3. SQL-based customer segmentation
@@ -28,7 +28,7 @@ The goal is to understand:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Customers without Tech Support are more likely to churn
 - Fiber optic users show higher churn rates
 - Month-to-month contracts have the highest churn
@@ -39,7 +39,7 @@ The goal is to understand:
 ## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](images/churnDistribution.png)
+![Churn Distribution](images/ChurnDistribution.png)
 
 ### Top Churn Drivers
 ![Ranked Churn Drivers](images/RankedChurnDrivers.png)
@@ -50,15 +50,15 @@ The goal is to understand:
 ### ChurnDriverDashboard
 ![Churn driver](images/Dashboard_page2.png)
 
-### overviewDashboard
-![overviwe](images/Dashboard_page3.png)
+### RevenueImpactDashboard
+![RevenueImpact](images/Dashboard_page3.png)
 
 
 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 data/
 python_analysis/
 sql_queries/

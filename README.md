@@ -36,23 +36,22 @@ The goal is to understand:
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### Churn Distribution
 ![Churn Distribution](images/ChurnDistribution.png)
 
 ### Top Churn Drivers
-![Ranked Churn Drivers](images/RankedChurnDrivers.png)
+![Top Churn Drivers](images/RankedChurnDrivers.png)
 
-### overviewDashboard
-![overviwe](images/Dashboard_page1.png)
+### Overview Dashboard - Page 1
+![Overview Dashboard](images/Dashboard_page1.png)
 
-### ChurnDriverDashboard
-![Churn driver](images/Dashboard_page2.png)
+### Churn Driver Dashboard - Page 2
+![Churn Driver Dashboard](images/Dashboard_page2.png)
 
-### RevenueImpactDashboard
-![RevenueImpact](images/Dashboard_page3.png)
-
+### Revenue Impact Dashboard - Page 3
+![Revenue Impact Dashboard](images/Dashboard_page3.png)
 
 
 

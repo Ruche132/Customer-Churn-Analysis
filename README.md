@@ -12,7 +12,7 @@ The goal is to understand:
 ---
 
 ## 🧰 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy,matplotlib)
 - SQL (Data querying & segmentation)
 - Power BI (Interactive dashboard)
 - Excel / CSV (Dataset handling)
